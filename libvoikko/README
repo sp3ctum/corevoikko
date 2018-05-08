@@ -73,6 +73,8 @@ based build system is available yet.
 Build configuration
 ===================
 
+First run ./autogen.sh to generate the configuration utilities.
+
 See ./configure --help for a list of available configuration options.
 The default configuration enables those backends that are recommended for
 typical use: VFST for Finnish and HFST for other languages.
